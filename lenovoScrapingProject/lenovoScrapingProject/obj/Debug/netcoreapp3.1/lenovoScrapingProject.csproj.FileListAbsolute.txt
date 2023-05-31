@@ -1,0 +1,51 @@
+C:\Users\Administrator\source\repos\lenovoScrapingProject\lenovoScrapingProject\bin\Debug\netcoreapp3.1\selenium-manager\linux\selenium-manager
+C:\Users\Administrator\source\repos\lenovoScrapingProject\lenovoScrapingProject\bin\Debug\netcoreapp3.1\selenium-manager\macos\selenium-manager
+C:\Users\Administrator\source\repos\lenovoScrapingProject\lenovoScrapingProject\bin\Debug\netcoreapp3.1\selenium-manager\windows\selenium-manager.exe
+C:\Users\Administrator\source\repos\lenovoScrapingProject\lenovoScrapingProject\bin\Debug\netcoreapp3.1\lenovoScrapingProject.exe
+C:\Users\Administrator\source\repos\lenovoScrapingProject\lenovoScrapingProject\bin\Debug\netcoreapp3.1\lenovoScrapingProject.deps.json
+C:\Users\Administrator\source\repos\lenovoScrapingProject\lenovoScrapingProject\bin\Debug\netcoreapp3.1\lenovoScrapingProject.runtimeconfig.json
+C:\Users\Administrator\source\repos\lenovoScrapingProject\lenovoScrapingProject\bin\Debug\netcoreapp3.1\lenovoScrapingProject.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\lenovoScrapingProject\lenovoScrapingProject\bin\Debug\netcoreapp3.1\lenovoScrapingProject.dll
+C:\Users\Administrator\source\repos\lenovoScrapingProject\lenovoScrapingProject\bin\Debug\netcoreapp3.1\lenovoScrapingProject.pdb
+C:\Users\Administrator\source\repos\lenovoScrapingProject\lenovoScrapingProject\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\Administrator\source\repos\lenovoScrapingProject\lenovoScrapingProject\bin\Debug\netcoreapp3.1\SeleniumExtras.WaitHelpers.dll
+C:\Users\Administrator\source\repos\lenovoScrapingProject\lenovoScrapingProject\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\Administrator\source\repos\lenovoScrapingProject\lenovoScrapingProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\lenovoScrapingProject\lenovoScrapingProject\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\Administrator\source\repos\lenovoScrapingProject\lenovoScrapingProject\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Administrator\source\repos\lenovoScrapingProject\lenovoScrapingProject\obj\Debug\netcoreapp3.1\lenovoScrapingProject.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\lenovoScrapingProject\lenovoScrapingProject\obj\Debug\netcoreapp3.1\lenovoScrapingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\lenovoScrapingProject\lenovoScrapingProject\obj\Debug\netcoreapp3.1\lenovoScrapingProject.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\lenovoScrapingProject\lenovoScrapingProject\obj\Debug\netcoreapp3.1\lenovoScrapingProject.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\lenovoScrapingProject\lenovoScrapingProject\obj\Debug\netcoreapp3.1\lenovoScrapingProject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\lenovoScrapingProject\lenovoScrapingProject\obj\Debug\netcoreapp3.1\lenovoScrapingProject.csproj.CopyComplete
+C:\Users\Administrator\source\repos\lenovoScrapingProject\lenovoScrapingProject\obj\Debug\netcoreapp3.1\lenovoScrapingProject.dll
+C:\Users\Administrator\source\repos\lenovoScrapingProject\lenovoScrapingProject\obj\Debug\netcoreapp3.1\lenovoScrapingProject.pdb
+C:\Users\Administrator\source\repos\lenovoScrapingProject\lenovoScrapingProject\obj\Debug\netcoreapp3.1\lenovoScrapingProject.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\lenovoScrapingProject - Copy\lenovoScrapingProject\obj\Debug\netcoreapp3.1\lenovoScrapingProject.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\lenovoScrapingProject - Copy\lenovoScrapingProject\obj\Debug\netcoreapp3.1\lenovoScrapingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\lenovoScrapingProject - Copy\lenovoScrapingProject\obj\Debug\netcoreapp3.1\lenovoScrapingProject.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\lenovoScrapingProject - Copy\lenovoScrapingProject\obj\Debug\netcoreapp3.1\lenovoScrapingProject.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\lenovoScrapingProject - Copy\lenovoScrapingProject\obj\Debug\netcoreapp3.1\lenovoScrapingProject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\lenovoScrapingProject - Copy\lenovoScrapingProject\obj\Debug\netcoreapp3.1\lenovoScrapingProject.dll
+C:\Users\Administrator\source\repos\lenovoScrapingProject - Copy\lenovoScrapingProject\obj\Debug\netcoreapp3.1\lenovoScrapingProject.pdb
+C:\Users\Administrator\source\repos\lenovoScrapingProject - Copy\lenovoScrapingProject\bin\Debug\netcoreapp3.1\selenium-manager\linux\selenium-manager
+C:\Users\Administrator\source\repos\lenovoScrapingProject - Copy\lenovoScrapingProject\bin\Debug\netcoreapp3.1\selenium-manager\macos\selenium-manager
+C:\Users\Administrator\source\repos\lenovoScrapingProject - Copy\lenovoScrapingProject\bin\Debug\netcoreapp3.1\selenium-manager\windows\selenium-manager.exe
+C:\Users\Administrator\source\repos\lenovoScrapingProject - Copy\lenovoScrapingProject\bin\Debug\netcoreapp3.1\lenovoScrapingProject.exe
+C:\Users\Administrator\source\repos\lenovoScrapingProject - Copy\lenovoScrapingProject\bin\Debug\netcoreapp3.1\lenovoScrapingProject.deps.json
+C:\Users\Administrator\source\repos\lenovoScrapingProject - Copy\lenovoScrapingProject\bin\Debug\netcoreapp3.1\lenovoScrapingProject.runtimeconfig.json
+C:\Users\Administrator\source\repos\lenovoScrapingProject - Copy\lenovoScrapingProject\bin\Debug\netcoreapp3.1\lenovoScrapingProject.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\lenovoScrapingProject - Copy\lenovoScrapingProject\bin\Debug\netcoreapp3.1\lenovoScrapingProject.dll
+C:\Users\Administrator\source\repos\lenovoScrapingProject - Copy\lenovoScrapingProject\bin\Debug\netcoreapp3.1\lenovoScrapingProject.pdb
+C:\Users\Administrator\source\repos\lenovoScrapingProject - Copy\lenovoScrapingProject\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\Administrator\source\repos\lenovoScrapingProject - Copy\lenovoScrapingProject\bin\Debug\netcoreapp3.1\SeleniumExtras.WaitHelpers.dll
+C:\Users\Administrator\source\repos\lenovoScrapingProject - Copy\lenovoScrapingProject\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\Administrator\source\repos\lenovoScrapingProject - Copy\lenovoScrapingProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\lenovoScrapingProject - Copy\lenovoScrapingProject\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\Administrator\source\repos\lenovoScrapingProject - Copy\lenovoScrapingProject\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Administrator\source\repos\lenovoScrapingProject - Copy\lenovoScrapingProject\obj\Debug\netcoreapp3.1\lenovoScrapingProject.csproj.CopyComplete
+C:\Users\Administrator\source\repos\lenovoScrapingProject - Copy\lenovoScrapingProject\obj\Debug\netcoreapp3.1\lenovoScrapingProject.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\lenovoScrapingProject - Copy\lenovoScrapingProject\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\source\repos\lenovoScrapingProject - Copy\lenovoScrapingProject\obj\Debug\netcoreapp3.1\lenovoScrapingProject.csproj.ResolveComReference.cache
+C:\Users\Administrator\source\repos\lenovoScrapingProject - Copy\lenovoScrapingProject\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
